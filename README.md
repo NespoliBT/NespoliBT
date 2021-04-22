@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Svelte, Typescript and NodeJS**
 
-- 👨‍💻 All of my projects are available at [nespolibt.com](nespolibt.com)
+- 👨‍💻 All of my projects are available at [nespolibt.com](https://nespolibt.com)
 
 - 📫 How to reach me **nespoli.bt@gmail.com**
 
