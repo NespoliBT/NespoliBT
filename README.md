@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nespolibt" alt="nespolibt" /></a> </p>
 
-- 🔭 I’m currently working on [Esami](https://github.com/NespoliBT/esami)
+- 🔭 I’m currently working on [my website](https://github.com/NespoliBT/nespolibt.com)
 
 - 🌱 I’m currently learning **Svelte, Typescript and NodeJS**
 
