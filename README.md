@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nespolibt" alt="nespolibt" /></a> </p>
 
-- 🔭 I’m currently working on [my website](https://github.com/NespoliBT/nespolibt.com)
+- 🔭 I’m currently teaching for food but also for fun
 
-- 🌱 I’m currently learning **Svelte, Typescript and NodeJS**
+- 🌱 I’m currently learning **C++, Java and Python**
 
-- 👨‍💻 All of my projects are available at [nespolibt.com](https://nespolibt.com)
+- 👨‍💻 Some of my projects are available at [nespolibt.com](https://nespolibt.com)
 
-- 📫 How to reach me **nespoli.bt@gmail.com**
+- 📫 My could be: **nespoli.bt@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
