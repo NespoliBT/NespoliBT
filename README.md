@@ -11,7 +11,7 @@
 
 - 👨‍💻 Some of my projects are available at [nespolibt.com](https://nespolibt.com)
 
-- 📫 My could be: **nespoli.bt@gmail.com**
+- 📫 My email could be: **nespoli.bt@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
